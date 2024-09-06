@@ -39,10 +39,11 @@ Here are some sample screenshots showcasing the application’s user interface a
   ![Movie Scheduling](assets/images/schedule.png)
 
 - **Ticket Booking Interface**
-  ![Ticket Booking](assets/images/erd_diagram.png)
+  ![Ticket Booking](assets/images/buy.png)
 
 - **Login Interface**
   ![Login](assets/images/login.png)
+  
 ## Installation
 
 To get started with Tixycket:
