@@ -23,7 +23,7 @@ This application is similar to cinema management systems used by major cinema ch
   - This allows for features such as adding new films, scheduling their showtimes, linking films to specific studios, managing genres and actors, and many more. Below is a simplified representation of the system's architecture.
 
 ### Database Design (ERD)
-![ERD](path_to_erd_image)
+![ERD](assets/images/erd_diagram.png)
 
 The above ERD shows the complex relationships between different entities within the application. Each entity (such as **Films**, **Studios**, **Sessions**, **Customers**, **Invoices**, etc.) is connected logically to allow smooth management of the cinema operations. These entities store crucial information, such as movie titles, show schedules, and customer bookings, to ensure the application's efficient performance.
 
@@ -31,13 +31,13 @@ The above ERD shows the complex relationships between different entities within 
 Here are some sample screenshots showcasing the application’s user interface and functionality:
 
 - **Main Dashboard**
-  ![Main Dashboard](path_to_dashboard_image)
+  ![Main Dashboard](assets/images/erd_diagram.png)
 
 - **Movie Management Page**
-  ![Movie Management](path_to_movie_management_image)
+  ![Movie Management](assets/images/erd_diagram.png)
 
 - **Ticket Booking Interface**
-  ![Ticket Booking](path_to_ticket_booking_image)
+  ![Ticket Booking](assets/images/erd_diagram.png)
 
 ## Installation
 
@@ -52,22 +52,22 @@ To get started with Tixycket:
 git clone https://github.com/WhoIsLiLY/Cinema_Celikoor_Application
 ```
 
-###Usage
+### Usage
 1. Login as an Admin, Cashier, Operator, or Customer using your assigned credentials.
 2. Manage Movies: Add new films, assign them to studios, and set showtimes.
 3. Sell Tickets: Cashiers can process ticket sales and generate invoices.
 4. View Invoices: Review past transactions and customer purchases.
 5. Monitor Cinema Activity: Operators can monitor studio status and movie sessions in real-time.
 
-###Technologies Used
+### Technologies Used
 1. C# .NET Framework
 2. Microsoft Visual Studio
 3. MySQL (for database management)
 4. Entity Framework (for ORM)
 5. Windows Forms (for the GUI)
 
-###Contributing
+### Contributing
 If you wish to contribute to the project, feel free to submit a pull request or report any issues. All contributions are welcome!
 
-###License
+### License
 This project is licensed under the MIT License. See the LICENSE file for details.
