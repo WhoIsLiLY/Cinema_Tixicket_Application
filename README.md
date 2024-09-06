@@ -23,7 +23,7 @@ This application is similar to cinema management systems used by major cinema ch
   - This allows for features such as adding new films, scheduling their showtimes, linking films to specific studios, managing genres and actors, and many more. Below is a simplified representation of the system's architecture.
 
 ### Database Design (ERD)
-![ERD](assets/images/erd_diagram.png)
+![ERD](assets/images/erd_celikoor_project.png)
 
 The above ERD shows the complex relationships between different entities within the application. Each entity (such as **Films**, **Studios**, **Sessions**, **Customers**, **Invoices**, etc.) is connected logically to allow smooth management of the cinema operations. These entities store crucial information, such as movie titles, show schedules, and customer bookings, to ensure the application's efficient performance.
 
@@ -31,14 +31,18 @@ The above ERD shows the complex relationships between different entities within 
 Here are some sample screenshots showcasing the application’s user interface and functionality:
 
 - **Main Dashboard**
-  ![Main Dashboard](assets/images/erd_diagram.png)
+  ![Main Dashboard](assets/images/buy.png)
 
 - **Movie Management Page**
-  ![Movie Management](assets/images/erd_diagram.png)
+  ![Movie Management](assets/images/management.png)
+  ![Movie Update](assets/images/update.png)
+  ![Movie Scheduling](assets/images/schedule.png)
 
 - **Ticket Booking Interface**
   ![Ticket Booking](assets/images/erd_diagram.png)
 
+- **Login Interface**
+  ![Login](assets/images/login.png)
 ## Installation
 
 To get started with Tixycket:
