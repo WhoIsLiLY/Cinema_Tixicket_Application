@@ -31,7 +31,7 @@ The above ERD shows the complex relationships between different entities within 
 Here are some sample screenshots showcasing the application’s user interface and functionality:
 
 - **Main Dashboard**
-  ![Main Dashboard](assets/images/buy.png)
+  ![Main Dashboard](assets/images/main_page.png)
 
 - **Movie Management Page**
   ![Movie Management](assets/images/management.png)
